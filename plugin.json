@@ -3,9 +3,7 @@
     "namespace"         :   "MarketplacePluginTest",
     "type"              :   "backend",
     "version"           :   "0.0.16",
-    "pluginIcon"        :   "icon_plugin_xs.png",
     "description"       :   "Test trait",
     "author"            :   "Ovidiu Ivan",
-    "authorIcon"        :   "icon_author_xs.png",
     "serviceProvider"   :   "MarketplacePluginTest\\Providers\\MarketplacePluginTestServiceProvider"
 }
